@@ -5,6 +5,8 @@ const Credential = require('./models/credential');
 const bodyParser = require('body-parser');
 const dbpw = 'DfMV07AMhiU3DRXL';
 
+console.log("Server Running");
+
 // Define routes
 const credentialRoute = require('./routes/credentialsRoutes');
 

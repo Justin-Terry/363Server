@@ -1,0 +1,14 @@
+{
+  "name": "ransomwareserver",
+  "version": "1.0.0",
+  "description": "EC Server",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Justin Terry",
+  "license": "ISC",
+  "dependencies": {
+    "mongoose": "^5.5.5"
+  }
+}
